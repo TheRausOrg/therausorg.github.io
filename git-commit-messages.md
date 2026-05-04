@@ -1,0 +1,3 @@
+- main: initialise landing page
+- main: update links and intro text
+- style: tweak typography
